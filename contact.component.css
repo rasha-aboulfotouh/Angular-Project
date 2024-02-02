@@ -1,0 +1,77 @@
+#container {
+    margin-top: 170px;
+
+}
+
+
+.img {
+    vertical-align: middle;
+    width: 512px;
+    height: 512px;
+    transform: translate3d(-55px, -586px, 0px);
+    opacity: 1;
+}
+
+element.style {
+    width: 100%;
+    height: 300px;
+    position: relative;
+    outline: none;
+}
+
+
+
+.leaflet-container.leaflet-touch-drag {
+
+    touch-action: pinch-zoom;
+}
+
+.leaflet-container {
+    font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+    background: #ddd;
+    -webkit-tap-highlight-color: transparent;
+    overflow: hidden;
+}
+
+.leaflet-container .leaflet-tile-pane img,
+.leaflet-container .leaflet-tile {
+    max-width: none !important;
+    max-height: none !important;
+}
+
+
+
+.leaflet-grab {
+    cursor: grab;
+}
+
+
+div {
+
+    font-size: 18px !important;
+    font-weight: 300 !important;
+}
+
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+
+/*************/
+label
+{
+    font-weight: bold;
+}
+
+
+
+.form-control {
+    background-color: antiquewhite;
+}
+/*************/

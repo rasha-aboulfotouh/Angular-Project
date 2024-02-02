@@ -1,0 +1,17 @@
+ .bg-light { 
+
+    margin-top: 180px;
+}
+
+
+
+
+.card {
+    width: 100%;
+    background-color: beige;
+    margin-bottom: 35px;
+}
+
+.card-body {
+    padding-bottom: 0;
+}
